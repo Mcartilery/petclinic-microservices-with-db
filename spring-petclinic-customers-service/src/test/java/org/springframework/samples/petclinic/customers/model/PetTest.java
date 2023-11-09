@@ -1,3 +1,4 @@
+// Maven Test
 package org.springframework.samples.petclinic.customers.model;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
