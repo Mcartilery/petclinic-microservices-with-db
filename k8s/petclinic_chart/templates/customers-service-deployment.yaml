@@ -32,7 +32,7 @@ spec:
           ports:
             - containerPort: 8081
               hostPort: 8081
-              protocol: T
+              protocol: TCP
       initContainers:
         - name: init-discovery-server
           image: busybox
